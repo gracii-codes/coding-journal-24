@@ -11,7 +11,7 @@ This is my 2024 self-taught coding journal... Date: May 6, 2024
 
 1. Create and Update CSS README.md log 
 2. Continue to create new Anki Notes per topic learned
-3. Continue Class #1 The Complete 2023 Web Development Bootcamp
+3. Continue Class #1 The Complete 2023 Web Development Bootcamp: Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
 4. Post on X for the next 100 days! 
 
 Today's Progress:
@@ -24,11 +24,15 @@ Today's Progress:
 
 ## Thoughts:
 
-1. Always remember: “Code every day”, “Simplicity is the soul of efficiency.” – Austin Freeman
+“There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises at every attempt to intimidate me.”
+― Jane Austen, Pride and Prejudice
 
-Up next:
+Always remember: “Code every day”, “Simplicity is the soul of efficiency.” – Austin Freeman
 
-1. Code!
+Study Schedule Up next:
+
+1.Class #1 The Complete 2023 Web Development Bootcamp online: 
+- Section 5: Intro to CSS Chapters #32 to #37 
 
 
 ## Author
