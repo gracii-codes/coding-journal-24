@@ -1,6 +1,6 @@
 # coding-journal-24
 This is my 2024 self-taught coding journal... Date: May 6, 2024
-# CSS
+# It's CSS time!
 ### Day 1: Monday, May 6, 2024
 
 #100DaysOfCode
