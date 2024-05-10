@@ -43,12 +43,13 @@ Posting on X ([@over45Codes](https://twitter.com/over45Codes))
 
 -  Coding, It's a place where creativity meets logic, and every line of code is a brushstroke on the canvas of the digital realm... | Sharing my self-taught coding journey in my late 40s. | From Call Center Management to Tech 🚀✨  Embracing the winding path of growth! 🌱
 
+<br/>
 
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 
 
-### Day 2: Monday, May 9, 2024
+### Day 2: Thrusday, May 9, 2024
 
 #100DaysOfCode
 
