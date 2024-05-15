@@ -125,7 +125,7 @@ Study Schedule Up next:
 
 1. Class #1 The Complete 2023 Web Development Bootcamp online: 
 - Section 5: Intro to CSS - Lessons #32 to #37 - Completed! 
-- Section 6: CSS Properties - Lessons #38 to 42 - In progress  
+- Section 6: CSS Properties - Lessons #38 to #42 - In progress  
 
 
 ## Author
