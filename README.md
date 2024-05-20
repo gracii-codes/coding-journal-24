@@ -215,7 +215,7 @@ Always remember: “Code every day”, “Simplicity is the soul of efficiency.�
 Study Schedule Up next:
 
 1. Class #1 The Complete 2023 Web Development Bootcamp online: 
-- Section 6: CSS Properties - Lessons #38 to #42 - In progress...
+- Section 6: CSS Properties - Lessons #42 - Motivational Poster Website - In progress...
 
 
 ## Author
