@@ -247,11 +247,13 @@ For a deeper dive into my coding journey, check out my articles on Hashnode:([@h
 3. Continue Class #1 The Complete 2023 Web Development Bootcamp: Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
 4. Post on X for the next 100 days! 
 
+
 Today's Progress:
 
 - Checked my Daily Coding Study Planner Reminders
 - 1 hr of coding: Class #1 CSS Course From The Complete 2023 Web Development Bootcamp online
 - Updated my CSS README.md log README.md log
+- Section 6: CSS Properties - Lessons #42 - Motivational Poster Website - Done!
 - Posted on X #100DaysofCode! ... Keep going!
 
 ## Thoughts:
@@ -264,7 +266,8 @@ Always remember: “Code every day”, “Simplicity is the soul of efficiency.�
 Study Schedule Up next:
 
 1. Class #1 The Complete 2023 Web Development Bootcamp online: 
-- Section 6: CSS Properties - Lessons #42 - Motivational Poster Website - Done!
+- Section 7: Intermediate CSS  - Lessons #43 - #47 
+
 
 
 ## Author
