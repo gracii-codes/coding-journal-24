@@ -487,3 +487,56 @@ For a deeper dive into my coding journey, check out my articles on Hashnode:([@h
 
 
 -  Coding, It's a place where creativity meets logic, and every line of code is a brushstroke on the canvas of the digital realm... | Sharing my self-taught coding journey in my late 40s. | From Call Centers to Tech living in Baja California Mexico! 🚀✨  Embracing the winding path of growth! 🌱 🇲🇽 Let's Go!
+
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+
+### Day 11: Wednesday, June 5, 2024
+
+#100DaysOfCode
+
+##### (🌱 Growth is a Winding Path, not a Straight Line)
+
+**Today's Project(s) Goals**:
+
+1. Update CSS README.md log 
+2. Continue to create new Anki Notes per topic learned
+3. Continue Class #1 The Complete 2023 Web Development Bootcamp: Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
+4. Post on X for the next 100 days! 
+
+
+Today's Progress:
+
+- Checked my Daily Coding Study Planner Reminders
+- 1 hr of coding: Class #1 CSS Course From The Complete 2023 Web Development Bootcamp online
+- Updated my CSS README.md log README.md log
+- Section 7: Intermediate CSS Lesson #44 on Combining CSS Selectors
+- Posted on X #100DaysofCode! ... Keep going!
+
+## Thoughts:
+
+“There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises at every attempt to intimidate me.”
+― Jane Austen, Pride and Prejudice
+
+Always remember: “Code every day”, “Simplicity is the soul of efficiency.” – Austin Freeman
+
+Study Schedule Up next:
+
+1. Class #1 The Complete 2023 Web Development Bootcamp online: 
+- Section 7: Intermediate CSS  - Lessons #43 - #47 
+- Currently working on Combining CSS Selectors 
+
+
+
+## Author
+
+-  Grace (over45Codes)  - Full Stack Developer 🇲🇽 💜  - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+- Sharing my self-taught coding journey in my late 40s. | Starting over in Mexico 🇲🇽✨ #CodingInMy40s #TechTransition 🚀
+📖 Read More:
+Posting on X ([@over45Codes](https://twitter.com/over45Codes))
+For a deeper dive into my coding journey, check out my articles on Hashnode:([@https://hashnode.com/@over45Codes]) 
+
+
+-  Coding, It's a place where creativity meets logic, and every line of code is a brushstroke on the canvas of the digital realm... | Sharing my self-taught coding journey in my late 40s. | From Call Centers to Tech living in Baja California Mexico! 🚀✨  Embracing the winding path of growth! 🌱 🇲🇽 Let's Go!
